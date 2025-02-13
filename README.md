@@ -48,7 +48,7 @@ The **Flight Booking System** is a C-based console application that allows users
 
 ## Author
 **Shakti Dheerays S**  
-Developed as part of **C Programming Project**.
+
 
 ---
 
